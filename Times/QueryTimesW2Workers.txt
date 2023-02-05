@@ -1,0 +1,7 @@
+
+Time elapsed for q1 is 20.9451 sec.
+Time elapsed for q2 is 19.5321 sec.
+Time elapsed for q3 is 17.5810 sec.
+Time elapsed for q3 with RDD is 148.4248 sec.
+Time elapsed for q4 is 25.7447 sec.
+Time elapsed for q5 is 23.8169 sec.
